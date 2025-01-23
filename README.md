@@ -11,4 +11,6 @@
 # using ML classification models.
 #
 # The repository contains the pre-processing
-# and modelling functions used in the process.
+# and modelling functions used in the process,
+# as well as the report file and dataset originally
+# found on Kaggle.
